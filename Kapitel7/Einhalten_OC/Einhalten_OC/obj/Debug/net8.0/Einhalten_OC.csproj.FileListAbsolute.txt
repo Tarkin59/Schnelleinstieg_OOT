@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\bin\Debug\net8.0\Einhalten_OC.exe
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\bin\Debug\net8.0\Einhalten_OC.deps.json
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\bin\Debug\net8.0\Einhalten_OC.runtimeconfig.json
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\bin\Debug\net8.0\Einhalten_OC.dll
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\bin\Debug\net8.0\Einhalten_OC.pdb
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\obj\Debug\net8.0\Einhalten_OC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\obj\Debug\net8.0\Einhalten_OC.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\obj\Debug\net8.0\Einhalten_OC.AssemblyInfo.cs
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\obj\Debug\net8.0\Einhalten_OC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\obj\Debug\net8.0\Einhalten_OC.dll
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\obj\Debug\net8.0\refint\Einhalten_OC.dll
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\obj\Debug\net8.0\Einhalten_OC.pdb
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\obj\Debug\net8.0\Einhalten_OC.genruntimeconfig.cache
+C:\Users\User\Desktop\Einhalten_OC\Einhalten_OC\obj\Debug\net8.0\ref\Einhalten_OC.dll
