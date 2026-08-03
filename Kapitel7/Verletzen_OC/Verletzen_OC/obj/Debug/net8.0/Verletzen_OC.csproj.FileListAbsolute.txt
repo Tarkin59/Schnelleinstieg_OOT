@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\bin\Debug\net8.0\Verletzen_OC.exe
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\bin\Debug\net8.0\Verletzen_OC.deps.json
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\bin\Debug\net8.0\Verletzen_OC.runtimeconfig.json
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\bin\Debug\net8.0\Verletzen_OC.dll
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\bin\Debug\net8.0\Verletzen_OC.pdb
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\obj\Debug\net8.0\Verletzen_OC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\obj\Debug\net8.0\Verletzen_OC.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\obj\Debug\net8.0\Verletzen_OC.AssemblyInfo.cs
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\obj\Debug\net8.0\Verletzen_OC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\obj\Debug\net8.0\Verletzen_OC.dll
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\obj\Debug\net8.0\refint\Verletzen_OC.dll
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\obj\Debug\net8.0\Verletzen_OC.pdb
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\obj\Debug\net8.0\Verletzen_OC.genruntimeconfig.cache
+C:\Users\User\Desktop\Verletzen_OC\Verletzen_OC\obj\Debug\net8.0\ref\Verletzen_OC.dll
