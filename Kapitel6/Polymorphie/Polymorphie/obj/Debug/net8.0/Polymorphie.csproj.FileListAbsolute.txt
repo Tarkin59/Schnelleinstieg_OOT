@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Polymorphie\Polymorphie\bin\Debug\net8.0\Polymorphie.exe
+C:\Users\User\Desktop\Polymorphie\Polymorphie\bin\Debug\net8.0\Polymorphie.deps.json
+C:\Users\User\Desktop\Polymorphie\Polymorphie\bin\Debug\net8.0\Polymorphie.runtimeconfig.json
+C:\Users\User\Desktop\Polymorphie\Polymorphie\bin\Debug\net8.0\Polymorphie.dll
+C:\Users\User\Desktop\Polymorphie\Polymorphie\bin\Debug\net8.0\Polymorphie.pdb
+C:\Users\User\Desktop\Polymorphie\Polymorphie\obj\Debug\net8.0\Polymorphie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Polymorphie\Polymorphie\obj\Debug\net8.0\Polymorphie.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Polymorphie\Polymorphie\obj\Debug\net8.0\Polymorphie.AssemblyInfo.cs
+C:\Users\User\Desktop\Polymorphie\Polymorphie\obj\Debug\net8.0\Polymorphie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Polymorphie\Polymorphie\obj\Debug\net8.0\Polymorphie.dll
+C:\Users\User\Desktop\Polymorphie\Polymorphie\obj\Debug\net8.0\refint\Polymorphie.dll
+C:\Users\User\Desktop\Polymorphie\Polymorphie\obj\Debug\net8.0\Polymorphie.pdb
+C:\Users\User\Desktop\Polymorphie\Polymorphie\obj\Debug\net8.0\Polymorphie.genruntimeconfig.cache
+C:\Users\User\Desktop\Polymorphie\Polymorphie\obj\Debug\net8.0\ref\Polymorphie.dll
