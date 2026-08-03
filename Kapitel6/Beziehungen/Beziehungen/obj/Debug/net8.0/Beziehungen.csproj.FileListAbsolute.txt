@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Beziehungen\Beziehungen\obj\Debug\net8.0\Beziehungen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Beziehungen\Beziehungen\obj\Debug\net8.0\Beziehungen.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Beziehungen\Beziehungen\obj\Debug\net8.0\Beziehungen.AssemblyInfo.cs
+C:\Users\User\Desktop\Beziehungen\Beziehungen\obj\Debug\net8.0\Beziehungen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Beziehungen\Beziehungen\bin\Debug\net8.0\Beziehungen.exe
+C:\Users\User\Desktop\Beziehungen\Beziehungen\bin\Debug\net8.0\Beziehungen.deps.json
+C:\Users\User\Desktop\Beziehungen\Beziehungen\bin\Debug\net8.0\Beziehungen.runtimeconfig.json
+C:\Users\User\Desktop\Beziehungen\Beziehungen\bin\Debug\net8.0\Beziehungen.dll
+C:\Users\User\Desktop\Beziehungen\Beziehungen\bin\Debug\net8.0\Beziehungen.pdb
+C:\Users\User\Desktop\Beziehungen\Beziehungen\obj\Debug\net8.0\Beziehungen.dll
+C:\Users\User\Desktop\Beziehungen\Beziehungen\obj\Debug\net8.0\refint\Beziehungen.dll
+C:\Users\User\Desktop\Beziehungen\Beziehungen\obj\Debug\net8.0\Beziehungen.pdb
+C:\Users\User\Desktop\Beziehungen\Beziehungen\obj\Debug\net8.0\Beziehungen.genruntimeconfig.cache
+C:\Users\User\Desktop\Beziehungen\Beziehungen\obj\Debug\net8.0\ref\Beziehungen.dll
