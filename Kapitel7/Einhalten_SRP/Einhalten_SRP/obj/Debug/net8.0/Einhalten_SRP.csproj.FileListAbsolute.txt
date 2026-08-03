@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\bin\Debug\net8.0\Einhalten_SRP.exe
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\bin\Debug\net8.0\Einhalten_SRP.deps.json
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\bin\Debug\net8.0\Einhalten_SRP.runtimeconfig.json
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\bin\Debug\net8.0\Einhalten_SRP.dll
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\bin\Debug\net8.0\Einhalten_SRP.pdb
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\obj\Debug\net8.0\Einhalten_SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\obj\Debug\net8.0\Einhalten_SRP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\obj\Debug\net8.0\Einhalten_SRP.AssemblyInfo.cs
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\obj\Debug\net8.0\Einhalten_SRP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\obj\Debug\net8.0\Einhalten_SRP.dll
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\obj\Debug\net8.0\refint\Einhalten_SRP.dll
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\obj\Debug\net8.0\Einhalten_SRP.pdb
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\obj\Debug\net8.0\Einhalten_SRP.genruntimeconfig.cache
+C:\Users\User\Desktop\Einhalten_SRP\Einhalten_SRP\obj\Debug\net8.0\ref\Einhalten_SRP.dll
