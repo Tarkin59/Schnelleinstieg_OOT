@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\bin\Debug\net8.0\Einzelne_Klasse.exe
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\bin\Debug\net8.0\Einzelne_Klasse.deps.json
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\bin\Debug\net8.0\Einzelne_Klasse.runtimeconfig.json
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\bin\Debug\net8.0\Einzelne_Klasse.dll
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\bin\Debug\net8.0\Einzelne_Klasse.pdb
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\obj\Debug\net8.0\Einzelne_Klasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\obj\Debug\net8.0\Einzelne_Klasse.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\obj\Debug\net8.0\Einzelne_Klasse.AssemblyInfo.cs
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\obj\Debug\net8.0\Einzelne_Klasse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\obj\Debug\net8.0\Einzelne_Klasse.dll
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\obj\Debug\net8.0\refint\Einzelne_Klasse.dll
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\obj\Debug\net8.0\Einzelne_Klasse.pdb
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\obj\Debug\net8.0\Einzelne_Klasse.genruntimeconfig.cache
+C:\Users\User\Desktop\Einzelne_Klasse\Einzelne_Klasse\obj\Debug\net8.0\ref\Einzelne_Klasse.dll
