@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Vererbung\Vererbung\bin\Debug\net8.0\Vererbung.exe
+C:\Users\User\Desktop\Vererbung\Vererbung\bin\Debug\net8.0\Vererbung.deps.json
+C:\Users\User\Desktop\Vererbung\Vererbung\bin\Debug\net8.0\Vererbung.runtimeconfig.json
+C:\Users\User\Desktop\Vererbung\Vererbung\bin\Debug\net8.0\Vererbung.dll
+C:\Users\User\Desktop\Vererbung\Vererbung\bin\Debug\net8.0\Vererbung.pdb
+C:\Users\User\Desktop\Vererbung\Vererbung\obj\Debug\net8.0\Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Vererbung\Vererbung\obj\Debug\net8.0\Vererbung.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Vererbung\Vererbung\obj\Debug\net8.0\Vererbung.AssemblyInfo.cs
+C:\Users\User\Desktop\Vererbung\Vererbung\obj\Debug\net8.0\Vererbung.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vererbung\Vererbung\obj\Debug\net8.0\Vererbung.dll
+C:\Users\User\Desktop\Vererbung\Vererbung\obj\Debug\net8.0\refint\Vererbung.dll
+C:\Users\User\Desktop\Vererbung\Vererbung\obj\Debug\net8.0\Vererbung.pdb
+C:\Users\User\Desktop\Vererbung\Vererbung\obj\Debug\net8.0\Vererbung.genruntimeconfig.cache
+C:\Users\User\Desktop\Vererbung\Vererbung\obj\Debug\net8.0\ref\Vererbung.dll
