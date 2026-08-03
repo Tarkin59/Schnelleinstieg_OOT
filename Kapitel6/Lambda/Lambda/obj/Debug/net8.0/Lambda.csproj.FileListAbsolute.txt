@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Lambda\Lambda\bin\Debug\net8.0\Lambda.exe
+C:\Users\User\Desktop\Lambda\Lambda\bin\Debug\net8.0\Lambda.deps.json
+C:\Users\User\Desktop\Lambda\Lambda\bin\Debug\net8.0\Lambda.runtimeconfig.json
+C:\Users\User\Desktop\Lambda\Lambda\bin\Debug\net8.0\Lambda.dll
+C:\Users\User\Desktop\Lambda\Lambda\bin\Debug\net8.0\Lambda.pdb
+C:\Users\User\Desktop\Lambda\Lambda\obj\Debug\net8.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfo.cs
+C:\Users\User\Desktop\Lambda\Lambda\obj\Debug\net8.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lambda\Lambda\obj\Debug\net8.0\Lambda.dll
+C:\Users\User\Desktop\Lambda\Lambda\obj\Debug\net8.0\refint\Lambda.dll
+C:\Users\User\Desktop\Lambda\Lambda\obj\Debug\net8.0\Lambda.pdb
+C:\Users\User\Desktop\Lambda\Lambda\obj\Debug\net8.0\Lambda.genruntimeconfig.cache
+C:\Users\User\Desktop\Lambda\Lambda\obj\Debug\net8.0\ref\Lambda.dll
