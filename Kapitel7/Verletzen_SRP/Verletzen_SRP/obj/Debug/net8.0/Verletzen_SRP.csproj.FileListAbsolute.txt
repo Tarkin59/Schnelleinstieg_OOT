@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\bin\Debug\net8.0\Verletzen_SRP.exe
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\bin\Debug\net8.0\Verletzen_SRP.deps.json
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\bin\Debug\net8.0\Verletzen_SRP.runtimeconfig.json
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\bin\Debug\net8.0\Verletzen_SRP.dll
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\bin\Debug\net8.0\Verletzen_SRP.pdb
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\obj\Debug\net8.0\Verletzen_SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\obj\Debug\net8.0\Verletzen_SRP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\obj\Debug\net8.0\Verletzen_SRP.AssemblyInfo.cs
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\obj\Debug\net8.0\Verletzen_SRP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\obj\Debug\net8.0\Verletzen_SRP.dll
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\obj\Debug\net8.0\refint\Verletzen_SRP.dll
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\obj\Debug\net8.0\Verletzen_SRP.pdb
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\obj\Debug\net8.0\Verletzen_SRP.genruntimeconfig.cache
+C:\Users\User\Desktop\Verletzen_SRP\Verletzen_SRP\obj\Debug\net8.0\ref\Verletzen_SRP.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Verletzen_SRP/1.0.0": {
+        "runtime": {
+          "Verletzen_SRP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verletzen_SRP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
