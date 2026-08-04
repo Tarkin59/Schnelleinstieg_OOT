@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\bin\Debug\net8.0\Einhalten_Liskov.exe
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\bin\Debug\net8.0\Einhalten_Liskov.deps.json
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\bin\Debug\net8.0\Einhalten_Liskov.runtimeconfig.json
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\bin\Debug\net8.0\Einhalten_Liskov.dll
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\bin\Debug\net8.0\Einhalten_Liskov.pdb
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\obj\Debug\net8.0\Einhalten_Liskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\obj\Debug\net8.0\Einhalten_Liskov.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\obj\Debug\net8.0\Einhalten_Liskov.AssemblyInfo.cs
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\obj\Debug\net8.0\Einhalten_Liskov.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\obj\Debug\net8.0\Einhalten_Liskov.dll
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\obj\Debug\net8.0\refint\Einhalten_Liskov.dll
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\obj\Debug\net8.0\Einhalten_Liskov.pdb
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\obj\Debug\net8.0\Einhalten_Liskov.genruntimeconfig.cache
+C:\Users\User\Desktop\Einhalten_Liskov\Einhalten_Liskov\obj\Debug\net8.0\ref\Einhalten_Liskov.dll
