@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\bin\Debug\net8.0\Einhalten_DI.exe
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\bin\Debug\net8.0\Einhalten_DI.deps.json
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\bin\Debug\net8.0\Einhalten_DI.runtimeconfig.json
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\bin\Debug\net8.0\Einhalten_DI.dll
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\bin\Debug\net8.0\Einhalten_DI.pdb
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\obj\Debug\net8.0\Einhalten_DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\obj\Debug\net8.0\Einhalten_DI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\obj\Debug\net8.0\Einhalten_DI.AssemblyInfo.cs
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\obj\Debug\net8.0\Einhalten_DI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\obj\Debug\net8.0\Einhalten_DI.dll
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\obj\Debug\net8.0\refint\Einhalten_DI.dll
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\obj\Debug\net8.0\Einhalten_DI.pdb
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\obj\Debug\net8.0\Einhalten_DI.genruntimeconfig.cache
+C:\Users\User\Desktop\Einhalten_DI\Einhalten_DI\obj\Debug\net8.0\ref\Einhalten_DI.dll
