@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\bin\Debug\net8.0\Verletzen_Liskov.exe
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\bin\Debug\net8.0\Verletzen_Liskov.deps.json
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\bin\Debug\net8.0\Verletzen_Liskov.runtimeconfig.json
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\bin\Debug\net8.0\Verletzen_Liskov.dll
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\bin\Debug\net8.0\Verletzen_Liskov.pdb
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\obj\Debug\net8.0\Verletzen_Liskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\obj\Debug\net8.0\Verletzen_Liskov.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\obj\Debug\net8.0\Verletzen_Liskov.AssemblyInfo.cs
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\obj\Debug\net8.0\Verletzen_Liskov.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\obj\Debug\net8.0\Verletzen_Liskov.dll
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\obj\Debug\net8.0\refint\Verletzen_Liskov.dll
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\obj\Debug\net8.0\Verletzen_Liskov.pdb
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\obj\Debug\net8.0\Verletzen_Liskov.genruntimeconfig.cache
+C:\Users\User\Desktop\Verletzen_Liskov\Verletzen_Liskov\obj\Debug\net8.0\ref\Verletzen_Liskov.dll
