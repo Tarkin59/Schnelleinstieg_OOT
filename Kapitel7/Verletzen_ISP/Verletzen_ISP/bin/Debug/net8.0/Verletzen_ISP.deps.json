@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Verletzen_ISP/1.0.0": {
+        "runtime": {
+          "Verletzen_ISP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verletzen_ISP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

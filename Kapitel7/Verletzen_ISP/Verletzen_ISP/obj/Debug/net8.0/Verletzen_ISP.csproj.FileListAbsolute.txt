@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\bin\Debug\net8.0\Verletzen_ISP.exe
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\bin\Debug\net8.0\Verletzen_ISP.deps.json
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\bin\Debug\net8.0\Verletzen_ISP.runtimeconfig.json
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\bin\Debug\net8.0\Verletzen_ISP.dll
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\bin\Debug\net8.0\Verletzen_ISP.pdb
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\obj\Debug\net8.0\Verletzen_ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\obj\Debug\net8.0\Verletzen_ISP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\obj\Debug\net8.0\Verletzen_ISP.AssemblyInfo.cs
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\obj\Debug\net8.0\Verletzen_ISP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\obj\Debug\net8.0\Verletzen_ISP.dll
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\obj\Debug\net8.0\refint\Verletzen_ISP.dll
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\obj\Debug\net8.0\Verletzen_ISP.pdb
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\obj\Debug\net8.0\Verletzen_ISP.genruntimeconfig.cache
+C:\Users\User\Desktop\Verletzen_ISP\Verletzen_ISP\obj\Debug\net8.0\ref\Verletzen_ISP.dll
