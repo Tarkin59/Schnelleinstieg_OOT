@@ -5,7 +5,7 @@ Insbesondere sind:
 - Uebungsaufgaben
    - teilweise mit Musterlösung
    - teilweise als reine Aufgaben (hier können Musterlösungen angefragt oder eigene Lösungen zur
-     Beuurteilung an die untenstehende E-Mail einegsandt werden)
+     Beuurteilung an die untenstehende E-Mail eingesandt werden)
 - Prompts, welche in einer beliebigen KI eingesetzt werden können um zusätzliche und aktuelle
     Einschätzungen und Informationen zu 
 - Weiterführende Informationen
