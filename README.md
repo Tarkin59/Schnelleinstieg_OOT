@@ -7,7 +7,7 @@ Insbesondere sind:
    - teilweise als reine Aufgaben (hier können Musterlösungen angefragt oder eigene Lösungen zur
      Beuurteilung an die untenstehende E-Mail eingesandt werden)
 - Prompts, welche in einer beliebigen KI eingesetzt werden können um zusätzliche und aktuelle
-    Einschätzungen und Informationen zu 
+    Einschätzungen und Informationen zu erhalten
 - Weiterführende Informationen
 
 Die Zusammenstellung wird laufend erweitert
