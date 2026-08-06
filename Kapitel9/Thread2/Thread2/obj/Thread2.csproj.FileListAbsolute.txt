@@ -1,0 +1,2 @@
+C:\Dokumente und Einstellungen\RUAG Land Systems\Eigene Dateien\Visual Studio 2005\Projects\Thread2\Thread2\obj\Debug\Thread2.exe
+C:\Dokumente und Einstellungen\RUAG Land Systems\Eigene Dateien\Visual Studio 2005\Projects\Thread2\Thread2\obj\Debug\Thread2.pdb

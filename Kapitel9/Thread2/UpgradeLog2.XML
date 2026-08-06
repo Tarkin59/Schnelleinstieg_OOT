@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Thread2">
+</Property><Property Name="Projektmappendatei" Value="G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Thread2.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Thread2.suo">
+</Property><Property Name="Date" Value="Mittwoch, 8. Juni 2011">
+</Property><Property Name="Time" Value="17:30">
+</Property><Property Name="Protokollnummer" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Thread2.sln" Description="Datei wurde erfolgreich als &quot;G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2.sln&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="Thread2.suo" Description="Datei wurde erfolgreich als &quot;G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2.suo&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Thread2.csproj" Description="Projektdatei erfolgreich gesichert als G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2\Thread2.csproj">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Form1.cs" Description="Datei erfolgreich gesichert als G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Form1.Designer.cs" Description="Datei erfolgreich gesichert als G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Program.cs" Description="Datei erfolgreich gesichert als G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2\Program.cs">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Properties\Resources.Designer.cs" Description="Datei erfolgreich gesichert als G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Properties\Settings.Designer.cs" Description="Datei erfolgreich gesichert als G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Properties\Settings.settings" Description="Datei erfolgreich gesichert als G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Form1.resx" Description="Datei erfolgreich gesichert als G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Properties\Resources.resx" Description="Datei erfolgreich gesichert als G:\B-TIN-08-T-a\Parallel_Verteilt\Code\Thread2\Backup1\Thread2\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Thread2.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="Thread2" Source="Thread2\Thread2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Thread2.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="Thread2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Thread2" Source="Thread2\Thread2.csproj" Description="Überprüfung abgeschlossen: Upgrade der Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

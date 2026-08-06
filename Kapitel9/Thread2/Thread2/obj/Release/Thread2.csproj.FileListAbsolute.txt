@@ -1,0 +1,8 @@
+C:\Documents and Settings\Christian\My Documents\Visual Studio 2008\Projects\Thread2\Thread2\bin\Release\Thread2.exe
+C:\Documents and Settings\Christian\My Documents\Visual Studio 2008\Projects\Thread2\Thread2\bin\Release\Thread2.pdb
+C:\Documents and Settings\Christian\My Documents\Visual Studio 2008\Projects\Thread2\Thread2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Christian\My Documents\Visual Studio 2008\Projects\Thread2\Thread2\obj\Release\Thread2.Form1.resources
+C:\Documents and Settings\Christian\My Documents\Visual Studio 2008\Projects\Thread2\Thread2\obj\Release\Thread2.Properties.Resources.resources
+C:\Documents and Settings\Christian\My Documents\Visual Studio 2008\Projects\Thread2\Thread2\obj\Release\Thread2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Christian\My Documents\Visual Studio 2008\Projects\Thread2\Thread2\obj\Release\Thread2.exe
+C:\Documents and Settings\Christian\My Documents\Visual Studio 2008\Projects\Thread2\Thread2\obj\Release\Thread2.pdb
