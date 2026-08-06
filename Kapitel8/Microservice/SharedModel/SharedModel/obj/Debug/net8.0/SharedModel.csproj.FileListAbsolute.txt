@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SharedModel\SharedModel\bin\Debug\net8.0\SharedModel.deps.json
+C:\Users\User\source\repos\SharedModel\SharedModel\bin\Debug\net8.0\SharedModel.dll
+C:\Users\User\source\repos\SharedModel\SharedModel\bin\Debug\net8.0\SharedModel.pdb
+C:\Users\User\source\repos\SharedModel\SharedModel\obj\Debug\net8.0\SharedModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SharedModel\SharedModel\obj\Debug\net8.0\SharedModel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SharedModel\SharedModel\obj\Debug\net8.0\SharedModel.AssemblyInfo.cs
+C:\Users\User\source\repos\SharedModel\SharedModel\obj\Debug\net8.0\SharedModel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SharedModel\SharedModel\obj\Debug\net8.0\SharedModel.dll
+C:\Users\User\source\repos\SharedModel\SharedModel\obj\Debug\net8.0\refint\SharedModel.dll
+C:\Users\User\source\repos\SharedModel\SharedModel\obj\Debug\net8.0\SharedModel.pdb
+C:\Users\User\source\repos\SharedModel\SharedModel\obj\Debug\net8.0\ref\SharedModel.dll
