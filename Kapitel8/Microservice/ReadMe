@@ -3,7 +3,7 @@ Dies ist der Ordner, in welchem die Projekte zur Microservice Architektur gehalt
 Dies umfasst 3 Projekte
 
 1. Product Service
-2. Order Service
+2. Order Client
 3. Shared Kernel
 
 Die Projekte müssen im selben Directory abgelegt werden (verwenden Sie sicherheitshalber keine OneDrive Directories)
