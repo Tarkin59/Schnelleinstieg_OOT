@@ -3,7 +3,7 @@ Hier sind alle Projekte enthalten, welche benötigt werden um eine lauffähige E
 Alle 4 Projekte
 
 - OrderService
-- EvenetBroker
+- EventBroker
 - InventoryService
 - ShippingService
 
