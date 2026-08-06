@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MVC_\MVC_\bin\Debug\net8.0-windows\MVC_.exe
+C:\Users\User\source\repos\MVC_\MVC_\bin\Debug\net8.0-windows\MVC_.deps.json
+C:\Users\User\source\repos\MVC_\MVC_\bin\Debug\net8.0-windows\MVC_.runtimeconfig.json
+C:\Users\User\source\repos\MVC_\MVC_\bin\Debug\net8.0-windows\MVC_.dll
+C:\Users\User\source\repos\MVC_\MVC_\bin\Debug\net8.0-windows\MVC_.pdb
+C:\Users\User\source\repos\MVC_\MVC_\obj\Debug\net8.0-windows\MVC_.Form1.resources
+C:\Users\User\source\repos\MVC_\MVC_\obj\Debug\net8.0-windows\MVC_.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MVC_\MVC_\obj\Debug\net8.0-windows\MVC_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MVC_\MVC_\obj\Debug\net8.0-windows\MVC_.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MVC_\MVC_\obj\Debug\net8.0-windows\MVC_.AssemblyInfo.cs
+C:\Users\User\source\repos\MVC_\MVC_\obj\Debug\net8.0-windows\MVC_.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MVC_\MVC_\obj\Debug\net8.0-windows\MVC_.dll
+C:\Users\User\source\repos\MVC_\MVC_\obj\Debug\net8.0-windows\refint\MVC_.dll
+C:\Users\User\source\repos\MVC_\MVC_\obj\Debug\net8.0-windows\MVC_.pdb
+C:\Users\User\source\repos\MVC_\MVC_\obj\Debug\net8.0-windows\MVC_.genruntimeconfig.cache
+C:\Users\User\source\repos\MVC_\MVC_\obj\Debug\net8.0-windows\ref\MVC_.dll
