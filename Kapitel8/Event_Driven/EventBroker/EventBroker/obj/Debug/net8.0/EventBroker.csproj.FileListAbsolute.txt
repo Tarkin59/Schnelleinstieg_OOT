@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\EventBroker\EventBroker\bin\Debug\net8.0\EventBroker.exe
+C:\Users\User\Desktop\EventBroker\EventBroker\bin\Debug\net8.0\EventBroker.deps.json
+C:\Users\User\Desktop\EventBroker\EventBroker\bin\Debug\net8.0\EventBroker.runtimeconfig.json
+C:\Users\User\Desktop\EventBroker\EventBroker\bin\Debug\net8.0\EventBroker.dll
+C:\Users\User\Desktop\EventBroker\EventBroker\bin\Debug\net8.0\EventBroker.pdb
+C:\Users\User\Desktop\EventBroker\EventBroker\obj\Debug\net8.0\EventBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EventBroker\EventBroker\obj\Debug\net8.0\EventBroker.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EventBroker\EventBroker\obj\Debug\net8.0\EventBroker.AssemblyInfo.cs
+C:\Users\User\Desktop\EventBroker\EventBroker\obj\Debug\net8.0\EventBroker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EventBroker\EventBroker\obj\Debug\net8.0\EventBroker.dll
+C:\Users\User\Desktop\EventBroker\EventBroker\obj\Debug\net8.0\refint\EventBroker.dll
+C:\Users\User\Desktop\EventBroker\EventBroker\obj\Debug\net8.0\EventBroker.pdb
+C:\Users\User\Desktop\EventBroker\EventBroker\obj\Debug\net8.0\EventBroker.genruntimeconfig.cache
+C:\Users\User\Desktop\EventBroker\EventBroker\obj\Debug\net8.0\ref\EventBroker.dll
