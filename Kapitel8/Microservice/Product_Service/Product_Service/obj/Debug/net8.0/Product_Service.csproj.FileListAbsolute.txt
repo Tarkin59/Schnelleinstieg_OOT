@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Product_Service\Product_Service\bin\Debug\net8.0\Product_Service.exe
+C:\Users\User\source\repos\Product_Service\Product_Service\bin\Debug\net8.0\Product_Service.deps.json
+C:\Users\User\source\repos\Product_Service\Product_Service\bin\Debug\net8.0\Product_Service.runtimeconfig.json
+C:\Users\User\source\repos\Product_Service\Product_Service\bin\Debug\net8.0\Product_Service.dll
+C:\Users\User\source\repos\Product_Service\Product_Service\bin\Debug\net8.0\Product_Service.pdb
+C:\Users\User\source\repos\Product_Service\Product_Service\obj\Debug\net8.0\Product_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Product_Service\Product_Service\obj\Debug\net8.0\Product_Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Product_Service\Product_Service\obj\Debug\net8.0\Product_Service.AssemblyInfo.cs
+C:\Users\User\source\repos\Product_Service\Product_Service\obj\Debug\net8.0\Product_Service.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Product_Service\Product_Service\obj\Debug\net8.0\Product_Service.dll
+C:\Users\User\source\repos\Product_Service\Product_Service\obj\Debug\net8.0\refint\Product_Service.dll
+C:\Users\User\source\repos\Product_Service\Product_Service\obj\Debug\net8.0\Product_Service.pdb
+C:\Users\User\source\repos\Product_Service\Product_Service\obj\Debug\net8.0\Product_Service.genruntimeconfig.cache
+C:\Users\User\source\repos\Product_Service\Product_Service\obj\Debug\net8.0\ref\Product_Service.dll
