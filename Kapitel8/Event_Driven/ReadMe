@@ -1,1 +1,37 @@
+Hier sind alle Projekte enthalten, welche benötigt werden um eine lauffähige EventDriven Applikation zu erzeugen
+
+Alle 4 Projekte
+
+- OrderService
+- EvenetBroker
+- InventoryService
+- ShippingService
+
+sind eigenständige Projekte und müssen einzeln gestartet werden. 
+
+Beachten Sie, dass im Code die Order, welche zur Ablage der Events dienen, starr verdrahtet sind. Für Ihre Anwendung also die
+- Entsprechenden Ordner/Unterordner erstellen
+  z.B:
+
+  Users\User\Event_Driven
+   - events
+       - incoming
+       - inventory
+       - shipping
+
+- Den Pfad @"C:\Users\User\Event_Driven\events\incoming"; im Code entsprechend anpassen
+
+Es empfiehlt sich die Projekte in der Sequenz
+
+1. ShippingService
+2. InventoryService
+3. EventBroker
+4. OrderService
+
+zu starten
+
+--> erzeugt werden also 4 Konsolenausgabefelder erzeugt
+
+Bitte beachten, dass nur neu erzeugte Events bearbeitet werden, JSON Files aus früheren Durchläufen (z.B. aus dem Test des OrderService)
+sind zwar im Ordner incoming abgelegt, werden aber nicht als Event erkannt und folglich nicht bearbeitet
 
