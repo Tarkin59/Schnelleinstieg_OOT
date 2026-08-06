@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SharedModel">
+      <HintPath>..\..\SharedModel\SharedModel\obj\Debug\net8.0\SharedModel.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
